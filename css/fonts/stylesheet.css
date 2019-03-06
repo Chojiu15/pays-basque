@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'VASCA';
+    src: url('VASCA.eot');
+    src: url('VASCA.eot?#iefix') format('embedded-opentype'),
+        url('VASCA.woff2') format('woff2'),
+        url('VASCA.woff') format('woff'),
+        url('VASCA.ttf') format('truetype'),
+        url('VASCA.svg#VASCA') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
